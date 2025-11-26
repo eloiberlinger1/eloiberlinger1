@@ -1,20 +1,16 @@
-# Hello, I'm Eloi Berlinger! 👋 <img src="https://github.com/eloiberlinger1/eloiberlinger1/blob/main/assets/Hi.gif" width="24px">
+## Hello, I'm Eloi Berlinger! 👋 <img src="https://github.com/eloiberlinger1/eloiberlinger1/blob/main/assets/Hi.gif" width="24px">
 
 ---
 
 ## 🧠 About Me
 
-* 🎓 **The 42 Experience:** Currently honing my skills at **42 Heilbronn**, a collaborative, peer-to-peer coding school focused on C/C++ and low-level system programming fundamentals.
-* 💡 **Autodidactic Journey:** Self-taught since the age of 14, which instilled in me a strong foundation in problem-solving and an independent learning drive.
+* 🎓 **The 42 Experience:** Currently honing my skills at **42 Heilbronn**.
+* 💡 **Autodidactic Journey:** Self-taught since the age of 14, which instilled in me a strong foundation in **programming** and a strong sense of **independence**.
 
 ---
 
 ## 🛠️ Technical Stack
 
-I rely on the following technologies to build and deploy solutions:
-
-| Category | Skills & Tools |
-| :--- | :--- |
 | **Core Languages** | Python, JavaScript , C/C++ |
 | **Web & Backend** | React, Django |
 | **Databases** | SQL (PostgreSQL, MySQL) |
@@ -22,7 +18,7 @@ I rely on the following technologies to build and deploy solutions:
 
 ---
 
-## 🗣️ Human Languages
+## 🗣️ Languages
 
 I am passionated by **languages**, whether they are used by humans or machines.
 
