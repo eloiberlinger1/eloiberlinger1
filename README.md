@@ -1,5 +1,50 @@
-# Hello, I'm Eloi <img src="https://github.com/eloiberlinger1/eloiberlinger1/blob/main/assets/Hi.gif" width="24px">
+# Hello, I'm Eloi Berlinger! 👋 <img src="https://github.com/eloiberlinger1/eloiberlinger1/blob/main/assets/Hi.gif" width="24px">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=eloiberlinger1)](https://github.com/anuraghazra/github-readme-stats)
+---
 
-[libft](https://github.com/eloiberlinger1/libft)      [ft_printf](https://github.com/eloiberlinger1/ft_printf)     [get_next_line](https://github.com/eloiberlinger1/get_next_line)
+## 🧠 About Me
+
+* 🎓 **The 42 Experience:** Currently honing my skills at **42 Heilbronn**, a collaborative, peer-to-peer coding school focused on C/C++ and low-level system programming fundamentals.
+* 💡 **Autodidactic Journey:** Self-taught since the age of 14, which instilled in me a strong foundation in problem-solving and an independent learning drive.
+
+---
+
+## 🛠️ Technical Stack
+
+I rely on the following technologies to build and deploy solutions:
+
+| Category | Skills & Tools |
+| :--- | :--- |
+| **Core Languages** | Python, JavaScript , C/C++ |
+| **Web & Backend** | React, Django |
+| **Databases** | SQL (PostgreSQL, MySQL) |
+| **DevOps & Infrastructure** | Git, Docker, CI/CD |
+
+---
+
+## 🗣️ Human Languages
+
+I am passionated by **languages**, whether they are used by humans or machines.
+
+* **Native:** French
+* **Fluent:** English, Russian
+* **Intermediate/Studying:** German
+
+---
+
+## 📈 GitHub Activity
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=eloiberlinger1&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloiberlinger1&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 📬 Contact
+
+* [**LinkedIn :**](https://www.linkedin.com/in/eloiberlinger/)
+* **Email :** contact[at]eloi-berlinger.ovh
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=eloiberlinger1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
