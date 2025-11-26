@@ -3,6 +3,7 @@
 * 🎓 **42 Student** 
 * 💡 **Autodidactic**
 
+| Category | Skills & Tools |
 | :--- | :--- |
 | **Core Languages** | Python, JavaScript, C/C++ |
 | **Web & Backend** | React, Django |
