@@ -1,22 +1,13 @@
 ## Hello, I'm Eloi Berlinger! 👋 <img src="https://github.com/eloiberlinger1/eloiberlinger1/blob/main/assets/Hi.gif" width="24px">
 
----
+* 🎓 **42 Student** 
+* 💡 **Autodidactic**
 
-## 🧠 About Me
-
-* 🎓 **The 42 Experience:** Currently honing my skills at **42 Heilbronn**.
-* 💡 **Autodidactic Journey:** Self-taught since the age of 14, which instilled in me a strong foundation in **programming** and a strong sense of **independence**.
-
----
-
-## 🛠️ Technical Stack
-
-| **Core Languages** | Python, JavaScript , C/C++ |
+| :--- | :--- |
+| **Core Languages** | Python, JavaScript, C/C++ |
 | **Web & Backend** | React, Django |
 | **Databases** | SQL (PostgreSQL, MySQL) |
 | **DevOps & Infrastructure** | Git, Docker, CI/CD |
-
----
 
 ## 🗣️ Languages
 
