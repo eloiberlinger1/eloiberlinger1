@@ -33,6 +33,6 @@ I am passionated by **languages**, whether they are used by humans or machines.
 * [**LinkedIn**](https://www.linkedin.com/in/eloiberlinger/)
 * **Email :** contact@eloi-berlinger.ovh
 
-<p align="center">
+<p align="center" style="display:none">
   <img src="https://komarev.com/ghpvc/?username=eloiberlinger1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
