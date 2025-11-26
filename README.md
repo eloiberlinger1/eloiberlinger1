@@ -30,7 +30,7 @@ I am passionated by **languages**, whether they are used by humans or machines.
 
 ## 📬 Contact
 
-* [**LinkedIn :**](https://www.linkedin.com/in/eloiberlinger/)
+* [**LinkedIn**](https://www.linkedin.com/in/eloiberlinger/)
 * **Email :** contact@eloi-berlinger.ovh
 
 <p align="center">
