@@ -24,8 +24,6 @@ I am passionated by **languages**, whether they are used by humans or machines.
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=eloiberlinger1&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eloiberlinger1&layout=compact&theme=vue-dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
 ---
 
 ## 📬 Contact
