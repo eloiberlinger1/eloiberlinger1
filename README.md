@@ -6,7 +6,7 @@
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Core Languages** | Python, JavaScript, C/C++ |
-| **Web & Backend** | React, Django |
+| **Technos** | React, Django, PyTorch |
 | **Databases** | SQL (PostgreSQL, MySQL) |
 | **DevOps & Infrastructure** | Git, Docker, CI/CD |
 
