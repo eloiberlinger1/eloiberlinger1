@@ -22,7 +22,7 @@ I am passionated by **languages**, whether they are used by humans or machines.
 
 ## 📈 GitHub Activity
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=eloiberlinger1&show_icons=true&theme=vue-dark&hide_border=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streaks](https://streak-stats.demolab.com?user=eloiberlinger1&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
