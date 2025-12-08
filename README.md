@@ -20,12 +20,6 @@ I am passionated by **languages**, whether they are used by humans or machines.
 
 ---
 
-## 📈 GitHub Activity
-
-[![GitHub Streaks](https://streak-stats.demolab.com?user=eloiberlinger1&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ## 📬 Contact
 
 * [**LinkedIn**](https://www.linkedin.com/in/eloiberlinger/)
