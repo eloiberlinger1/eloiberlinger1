@@ -5,10 +5,10 @@
 
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Core Languages** | Python, JavaScript, C/C++ |
-| **Technos** | React, Django, PyTorch |
-| **Databases** | SQL (PostgreSQL, MySQL) |
-| **DevOps & Infrastructure** | Git, Docker, CI/CD |
+| **Core Languages** | ![My Skills](https://skillicons.dev/icons?i=py,js,html,css,c,php) |
+| **Technos** | ![My Skills](https://skillicons.dev/icons?i=react,django,pytorch) |
+| **Databases** | ![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase) |
+| **DevOps & Infrastructure** | ![My Skills](https://skillicons.dev/icons?i=git,docker) |
 
 ## 🗣️ Languages
 
