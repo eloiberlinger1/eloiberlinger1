@@ -8,7 +8,7 @@
 | **Core Languages** | ![My Skills](https://skillicons.dev/icons?i=py,js,html,css,c,php) |
 | **Technos** | ![My Skills](https://skillicons.dev/icons?i=react,django,pytorch) |
 | **Databases** | ![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase) |
-| **DevOps & Infrastructure** | ![My Skills](https://skillicons.dev/icons?i=git,docker) |
+| **DevOps & Infrastructure** | ![My Skills](https://skillicons.dev/icons?i=git,docker,githubactions) |
 
 ## 🗣️ Languages
 
