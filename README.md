@@ -1,5 +1,3 @@
-## Hello, I'm Eloi Berlinger! 👋 <img src="https://github.com/eloiberlinger1/eloiberlinger1/blob/main/assets/Hi.gif" width="24px">
-
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Core Languages** | ![My Skills](https://skillicons.dev/icons?i=py,js,html,css,c,php) |
