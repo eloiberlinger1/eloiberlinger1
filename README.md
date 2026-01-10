@@ -6,13 +6,7 @@
 | **DevOps & Infrastructure** | ![My Skills](https://skillicons.dev/icons?i=git,docker,githubactions) |
 | **Interests** | ![My Skills](https://skillicons.dev/icons?i=rust,go,mongodb,nextjs) |
 
-## 🗣️ Languages
-
-I am passionated by **languages**, whether they are used by humans or machines.
-
-* **Native:** French
-* **Fluent:** English, Russian
-* **Intermediate/Studying:** German
+## 🗣️ Languages : French, English, Russian, German
 
 ---
 
