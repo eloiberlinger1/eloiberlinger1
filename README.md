@@ -4,7 +4,7 @@
 | **Technos** | ![My Skills](https://skillicons.dev/icons?i=react,threejs,django,pytorch) |
 | **Databases** | ![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase) |
 | **DevOps & Infrastructure** | ![My Skills](https://skillicons.dev/icons?i=git,docker,githubactions) |
-| **Interests** | ![My Skills](https://skillicons.dev/icons?i=ts,go,mongodb,nextjs) |
+| **Interests** | ![My Skills](https://skillicons.dev/icons?i=rust,go,mongodb,nextjs) |
 
 ## 🗣️ Languages
 
