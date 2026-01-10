@@ -1,6 +1,6 @@
 | Category | Skills & Tools |
 | :--- | :--- |
-| **Core Languages** | ![My Skills](https://skillicons.dev/icons?i=py,js,html,css,c,php) |
+| **Core Languages** | ![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,c,php) |
 | **Technos** | ![My Skills](https://skillicons.dev/icons?i=react,threejs,django,pytorch) |
 | **Databases** | ![My Skills](https://skillicons.dev/icons?i=mysql,postgres,firebase) |
 | **DevOps & Infrastructure** | ![My Skills](https://skillicons.dev/icons?i=git,docker,githubactions) |
