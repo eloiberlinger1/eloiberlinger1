@@ -6,10 +6,6 @@
 | **DevOps & Infrastructure** | ![My Skills](https://skillicons.dev/icons?i=git,docker,githubactions) |
 | **Interests** | ![My Skills](https://skillicons.dev/icons?i=rust,go,mongodb,nextjs) |
 
-## 🗣️ Languages : French, English, Russian, German
-
----
-
 ## 📬 Contact
 
 * [**LinkedIn**](https://www.linkedin.com/in/eloiberlinger/)
