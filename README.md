@@ -9,7 +9,7 @@
 ## 📬 Contact
 
 * [**LinkedIn**](https://www.linkedin.com/in/eloiberlinger/)
-* **Email :** contact@eloi-berlinger.ovh
+* [**Portfolio**](https://www.eloi-berlinger.ovh/)
 
 <p align="center" style="display:none">
   <img src="https://komarev.com/ghpvc/?username=eloiberlinger1&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
