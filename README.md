@@ -1,3 +1,5 @@
+[GitLab](https://gitlab.com/eloiberlinger1)
+
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Core Languages** | ![My Skills](https://skillicons.dev/icons?i=py,js,ts,html,css,c,php) |
